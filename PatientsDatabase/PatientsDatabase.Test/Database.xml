@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<dbf:Database xmlns:dbf="http://tempuri.org/database.xsd" modified="2020-12-01T12:00:00.000">
+	<dbf:Patients>
+		<dbf:Patient FirstName="Sonya" LastName="Levchenko" PESEL="12345678910" />
+		<dbf:Patient FirstName="Marcin" LastName="Ziolkowski" PESEL="34567890123" />
+	</dbf:Patients>
+	<dbf:Appointments>
+		<dbf:Appointment AppointmentId="1" StartDate="2021-05-31T12:00:00" PWZ="1234578" PESEL="12345678910" />
+		<dbf:Appointment AppointmentId="2" StartDate="2021-06-09T11:00:00" PWZ="1234578" PESEL="34567890123" />
+		<dbf:Appointment AppointmentId="3" StartDate="2021-05-27T16:00:00" PWZ="1234578" PESEL="12345678910" />
+	</dbf:Appointments>
+</dbf:Database>

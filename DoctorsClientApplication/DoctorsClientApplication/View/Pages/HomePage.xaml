@@ -1,0 +1,46 @@
+﻿<Page
+    x:Class="DoctorsClientApplication.View.HomePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    xmlns:i="using:Microsoft.Xaml.Interactivity"
+    xmlns:icore="using:Microsoft.Xaml.Interactions.Core"
+    xmlns:model="using:DoctorsClientApplication.Model"
+    xmlns:view="using:DoctorsClientApplication.View"
+    xmlns:controller="using:DoctorsClientApplication.Controller"
+    xmlns:sys="using:System"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+    
+    <i:Interaction.Behaviors>
+        <icore:EventTriggerBehavior EventName="Loaded">
+            <icore:InvokeCommandAction Command="{x:Bind Controller.SetDefaultStateCommand}" />
+        </icore:EventTriggerBehavior>
+    </i:Interaction.Behaviors>
+    
+
+
+    <Page.Resources>
+        <controller:ApplicationStateConverter x:Key="ApplicationStateConverter" />
+        <view:AppointmentDataConverter x:Key="AppointmentDataConverter" />
+
+        <DataTemplate x:Key="ScheduleViewTemplate" x:DataType="model:ScheduleData">
+            <TextBlock Text="{x:Bind Mode=OneTime, Converter={StaticResource ScheduleDataConverter}}" />
+        </DataTemplate>
+    </Page.Resources>
+
+    <Grid>
+        <!--<Image x:Name="ImgDoc1" Source="/Assets/Doctor.jpg" Stretch="UniformToFill" />-->
+        <Image x:Name="Cat" Source="/Assets/cat.jpg" Stretch="UniformToFill" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        <Rectangle Width="1500" Height="1000" Fill="White" Opacity="0.2"/>
+        
+        <TextBlock x:Name="welcome"  HorizontalAlignment="Left" Margin="43,365,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Foreground="Black" FontSize="70pt">
+            <Run Text="Welcome,"/>
+            <LineBreak/>
+            <Run Text="{Binding Model.Doctor.Name}"/><Run Text=" "/><Run Text="{Binding Model.Doctor.LastName}"/>
+        </TextBlock>
+
+    </Grid>
+
+</Page>

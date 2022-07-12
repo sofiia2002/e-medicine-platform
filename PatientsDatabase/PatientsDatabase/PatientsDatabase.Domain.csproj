@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>PatientDatabase.Domain</AssemblyName>
+    <RootNamespace>PatientsDatabase.Domain</RootNamespace>
+  </PropertyGroup>
+
+</Project>

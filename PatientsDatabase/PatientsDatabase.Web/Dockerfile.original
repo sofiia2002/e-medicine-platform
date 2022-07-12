@@ -1,0 +1,26 @@
+#See https://aka.ms/containerfastmode to understand how Visual Studio uses this Dockerfile to build your images for faster debugging.
+
+#Depending on the operating system of the host machines(s) that will build or run the containers, the image specified in the FROM statement may need to be changed.
+#For more information, please see https://aka.ms/containercompat
+
+FROM mcr.microsoft.com/dotnet/sdk:5.0 AS build
+LABEL stage=DataMicroservice_build
+WORKDIR /src
+COPY ["PatientsDatabase.Domain/PatientsDatabase.Domain.csproj", "PatientsDatabase.Domain/"]
+COPY ["PatientsDatabase.Infrastructure/PatientsDatabase.Infrastructure.csproj", "PatientsDatabase.Infrastructure/"]
+COPY ["PatientsDatabase.Web/PatientsDatabase.Web.csproj", "PatientsDatabase.Web/"]
+COPY ["PatientsDatabase.Test/PatientsDatabase.Test.csproj", "PatientsDatabase.Test/"]
+RUN dotnet restore "PatientsApplicationMicroservice/PatientsApplicationMicroservice.csproj"
+COPY . .
+WORKDIR "/src/PatientsDatabase.Web"
+RUN dotnet build "PatientsDatabase.Web.csproj" -c Release -o /app/build
+RUN dotnet publish "PatientsDatabase.Web.csproj" -c Release -o /app/publish
+
+FROM mcr.microsoft.com/dotnet/aspnet:5.0 AS runtime
+EXPOSE 80
+EXPOSE 441
+WORKDIR /app
+COPY --from=build /app/publish .
+COPY PatientsDatabase.Web/Database.xml .
+COPY PatientsDatabase.Web/Database.xsd .
+ENTRYPOINT ["dotnet", "PatientsDatabase.Web.dll"]

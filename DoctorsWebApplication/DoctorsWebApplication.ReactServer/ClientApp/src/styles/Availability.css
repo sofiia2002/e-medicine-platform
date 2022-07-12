@@ -1,0 +1,88 @@
+﻿.MiniCont{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 1rem;
+}
+
+
+.ava-pop-up-body > button,
+.addApoBtn {
+    outline: none;
+    border: none;
+    border: 1px solid black;
+    padding: .75rem 1rem;
+    background: white;
+    box-shadow: 0 0 8px 2px #00000020;
+    transition: box-shadow .2s;
+    border-radius: 5px;
+}
+
+.ava-pop-up-body > button:hover,
+.addApoBtn:hover {
+    box-shadow: 0 0 8px 2px #00000040;
+}
+
+.fa-trash{
+    margin: 0 .9rem;
+    cursor: pointer;
+    color: black;
+    transition: color .2s;
+}
+
+.fa-trash:hover{
+    color: red;
+}
+
+.ava-pop-up-text, .ava-pop-up-body {
+    display: flex;
+    flex-direction: column;
+    margin: 1rem auto;
+    align-items: center;
+}
+
+.ava-pop-up-body > :first-child,
+.ava-pop-up-body > :last-child {
+    margin: 1rem 0;
+    width: 100%;
+}
+
+
+
+.ava-pop-up {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 360px;
+    height: 375px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 300px 15px #00000070;
+    background-color: white;
+    padding: 1rem;
+}
+
+    .ava-pop-up > :first-child {
+        margin: 0 0 0 auto;
+        cursor: pointer;
+        width: 20px;
+        height: 20px;
+    }
+
+
+.hide {
+    opacity: 0;
+    transition: opacity ease-in-out .2s;
+}
+
+.show {
+    opacity: 1;
+    transition: opacity ease-in-out .2s;
+}
+
+.hide-button,
+.hide-button:hover,
+.addApoBtn:hover {
+    cursor: default;
+}

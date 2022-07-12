@@ -1,0 +1,157 @@
+﻿<Page
+    x:Class="DoctorsClientApplication.View.SchedulePage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    xmlns:model="using:DoctorsClientApplication.Model"
+    xmlns:icore="using:Microsoft.Xaml.Interactions.Core"
+    xmlns:interactivity="using:Microsoft.Xaml.Interactivity"
+    xmlns:view="using:DoctorsClientApplication.View"
+    xmlns:controller="using:DoctorsClientApplication.Controller"
+    xmlns:i="using:Microsoft.Xaml.Interactivity"
+    
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Page.Resources>
+        <controller:ApplicationStateConverter x:Key="ApplicationStateConverter" />
+        <view:AppointmentDataConverter x:Key="AppointmentDataConverter"/>
+
+    </Page.Resources>
+
+    <i:Interaction.Behaviors>
+        <icore:EventTriggerBehavior EventName="Loaded">
+            <icore:InvokeCommandAction Command="{x:Bind Controller.SearchAppointmentsCommand}" />
+        </icore:EventTriggerBehavior>
+    </i:Interaction.Behaviors>
+
+    <Grid>
+        <i:Interaction.Behaviors>
+            <icore:DataTriggerBehavior Binding="{Binding CurrentState, Mode=OneWay, Converter={StaticResource ApplicationStateConverter}}" ComparisonCondition="Equal" Value="DoctorSchedule">
+                <icore:GoToStateAction StateName="schedule" />
+            </icore:DataTriggerBehavior>
+            <icore:DataTriggerBehavior Binding="{Binding CurrentState, Mode=OneWay, Converter={StaticResource ApplicationStateConverter}}" ComparisonCondition="Equal" Value="AppointmentPage">
+                <icore:GoToStateAction StateName="appointment" />
+            </icore:DataTriggerBehavior>
+            <icore:DataTriggerBehavior Binding="{Binding CurrentState, Mode=OneWay, Converter={StaticResource ApplicationStateConverter}}" ComparisonCondition="Equal" Value="Default">
+                <icore:GoToStateAction StateName="defaultt" />
+            </icore:DataTriggerBehavior>
+        </i:Interaction.Behaviors>
+
+        <!--<Image x:Name="ImgDoc1" Source="/Assets/Schedule.jpg" Stretch="UniformToFill"/>-->
+        <Image x:Name="turtle" Source="/Assets/turtle.png" Stretch="UniformToFill"/>
+        <Rectangle Width="1500" Height="1000" Fill="White" Opacity="0.2"/>
+
+        <Grid x:Name="schedulePanel" Height="720"  HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="600" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="620" />
+                <RowDefinition Height="100" />
+            </Grid.RowDefinitions>
+            <ListView Grid.Row="0" ItemsSource="{x:Bind Model.Appointments, Mode=OneWay}" HorizontalAlignment="Center" SelectedItem="{x:Bind Model.SelectedAppointment, Mode=TwoWay}">
+                <ListView.ItemTemplate>
+                    <DataTemplate x:DataType="model:AppointmentData">
+                        <Border BorderThickness="2" BorderBrush="Black" Margin="5">
+                            <Grid Background="white" HorizontalAlignment="Center" Width="600" >
+                                <TextBlock Text="{x:Bind Mode=OneTime, Converter={StaticResource AppointmentDataConverter}}" Height="20" VerticalAlignment="Center" Foreground="Black" Margin="30, 20, 0, 20"/>
+                            </Grid>
+                        </Border>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+            <StackPanel Margin="0,20, 0, 0" Grid.Row="1" Background="Black" Width="570">
+                <AppBarButton x:Name="AppointmentDetailsButton" Icon="Paste" Background="#7F000000" Click="DetailEventHandler" HorizontalAlignment="Center" Label="View appointment details" Command="{x:Bind Controller.SearchAppointmentDetailsCommand}" Foreground="White" Width="570"  Margin="10,10,10,10"/>
+            </StackPanel>
+        </Grid>
+
+        <Grid x:Name="appointmentPanel" Opacity="0">
+            <StackPanel  Background="#cF000000" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <Grid x:Name="appointmentPanelElement">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="600" />
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="120" />
+                        <RowDefinition Height="420" />
+                        <RowDefinition Height="160"/>
+                    </Grid.RowDefinitions>
+                    <TextBlock Grid.Row="0" Opacity="1" Foreground="White" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="36pt">Appointment details:</TextBlock>
+
+                    <TextBlock Foreground="White" Margin="70, 0, 70, 100" Opacity="0" Grid.Row="1" VerticalAlignment="Center" x:Name="AppointmentDataTextBlock" FontSize="30pt">
+                            <LineBreak />
+                            <Run FontSize="30pt" Text="Selected appointment: " />
+                            <LineBreak />
+                            <Run FontSize="23pt" Text="Start date: " /><Run FontSize="23pt" Text="{Binding Model.SelectedAppointment.StartDate}"/>
+                            <LineBreak />
+                            <LineBreak />
+                            <Run FontSize="30pt" Text="Patient information: " />
+                            <LineBreak />
+                            <Run FontSize="23pt" Text="Name: " /> <Run FontSize="23pt" Text="{Binding Model.PatientDetails.FirstName}"/>
+                            <LineBreak />
+                            <Run FontSize="23pt" Text="Surname: " /><Run FontSize="23pt" Text="{Binding Model.PatientDetails.LastName}"/>
+                            <LineBreak />
+                            <Run FontSize="23pt" Text="PESEL: " /><Run FontSize="23pt" Text="{Binding Model.PatientDetails.PESEL}"/>
+                    </TextBlock>
+
+                    <TextBlock Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Center" Opacity="0" x:Name="AppointmentNotSelectedInfo">
+                            <Run Text="Please select an Appointment" FontSize="24pt" Foreground="White"></Run>
+                            <LineBreak />
+                            <Run Text="to view it's details" FontSize="24pt" Foreground="White"></Run>
+                    </TextBlock>
+
+                    <AppBarButton Grid.Row="2" Label="Go back" Icon="Back"  Command="{x:Bind Controller.ShowDoctorScheduleCommand}" Background="Black"  Foreground="White"  HorizontalAlignment="Center" Width="557"  Height="69" Margin="0,68,0,0"/>
+                </Grid>
+            </StackPanel>
+        </Grid>
+
+
+
+        <VisualStateManager.VisualStateGroups>
+            <VisualStateGroup x:Name="ApplicationViewStates">
+                <VisualState x:Name="schedule">
+                    <Storyboard>
+                        <DoubleAnimation Storyboard.TargetName="schedulePanel" Storyboard.TargetProperty="Opacity" To="1.0" Duration="0:0:0.2"/>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="schedulePanel" Storyboard.TargetProperty="Visibility">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="Visible"/>
+                        </ObjectAnimationUsingKeyFrames>
+
+                        <DoubleAnimation Storyboard.TargetName="appointmentPanel" Storyboard.TargetProperty="Opacity" To="0.0" Duration="0:0:0.2" />
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="appointmentPanel" Storyboard.TargetProperty="Visibility">
+                            <DiscreteObjectKeyFrame KeyTime="0:0:0.2" Value="Collapsed"/>
+                        </ObjectAnimationUsingKeyFrames>
+                    </Storyboard>
+                </VisualState>
+                <VisualState x:Name="appointment">
+                    <Storyboard>
+                        <DoubleAnimation Storyboard.TargetName="appointmentPanel" Storyboard.TargetProperty="Opacity" To="1.0" Duration="0:0:0.2"/>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="appointmentPanel" Storyboard.TargetProperty="Visibility">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="Visible"/>
+                        </ObjectAnimationUsingKeyFrames>
+
+                        <DoubleAnimation Storyboard.TargetName="schedulePanel" Storyboard.TargetProperty="Opacity" To="0.0" Duration="0:0:0.2" />
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="schedulePanel" Storyboard.TargetProperty="Visibility">
+                            <DiscreteObjectKeyFrame KeyTime="0:0:0.2" Value="Collapsed"/>
+                        </ObjectAnimationUsingKeyFrames>
+                    </Storyboard>
+                </VisualState>
+                <VisualState x:Name="defaultt">
+                    <Storyboard>
+                        <DoubleAnimation Storyboard.TargetName="appointmentPanel" Storyboard.TargetProperty="Opacity" To="0.0" Duration="0:0:0.2"/>
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="appointmentPanel" Storyboard.TargetProperty="Visibility">
+                            <DiscreteObjectKeyFrame KeyTime="0" Value="Collapsed"/>
+                        </ObjectAnimationUsingKeyFrames>
+
+                        <DoubleAnimation Storyboard.TargetName="schedulePanel" Storyboard.TargetProperty="Opacity" To="0.0" Duration="0:0:0.2" />
+                        <ObjectAnimationUsingKeyFrames Storyboard.TargetName="schedulePanel" Storyboard.TargetProperty="Visibility">
+                            <DiscreteObjectKeyFrame KeyTime="0:0:0.2" Value="Collapsed"/>
+                        </ObjectAnimationUsingKeyFrames>
+                    </Storyboard>
+                </VisualState>
+            </VisualStateGroup>
+        </VisualStateManager.VisualStateGroups>
+    </Grid>
+</Page> 
