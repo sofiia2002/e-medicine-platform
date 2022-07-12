@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<db:Database xmlns:db="http://tempuri.org/database.xsd" modified="2021-05-26T15:03:17">
+  <db:Availabilities>
+    <db:Availability id="4" startDate="2022-04-18T09:00:00" endDate="2022-04-18T10:00:00" pwz="1234578" />
+    <db:Availability id="5" startDate="2022-04-18T11:00:00" endDate="2022-04-18T12:00:00" pwz="1234578" />
+    <db:Availability id="6" startDate="2022-04-18T16:00:00" endDate="2022-04-18T17:00:00" pwz="1234578" />
+    <db:Availability id="31" startDate="2022-04-19T10:00:00" endDate="2022-04-19T12:00:00" pwz="1234568" />
+    <db:Availability id="32" startDate="2022-05-26T17:00:00" endDate="2022-05-26T18:00:00" pwz="1234567" />
+    <db:Availability id="33" startDate="2022-05-26T13:00:00" endDate="2022-05-26T14:00:00" pwz="1234567" />
+  </db:Availabilities>
+  <db:Doctors>
+    <db:Doctor firstName="Andrzej" lastName="Grabowski" pwz="1234567">
+      <db:Specializations>
+        <db:Specialization specialization="0" />
+        <db:Specialization specialization="1" />
+        <db:Specialization specialization="2" />
+      </db:Specializations>
+    </db:Doctor>
+    <db:Doctor firstName="Agata" lastName="Serowska" pwz="1234578">
+      <db:Specializations>
+        <db:Specialization specialization="5" />
+        <db:Specialization specialization="3" />
+        <db:Specialization specialization="4" />
+      </db:Specializations>
+    </db:Doctor>
+    <db:Doctor firstName="Maciej" lastName="Twaróg" pwz="1234568">
+      <db:Specializations>
+        <db:Specialization specialization="6" />
+        <db:Specialization specialization="8" />
+        <db:Specialization specialization="2" />
+      </db:Specializations>
+    </db:Doctor>
+  </db:Doctors>
+</db:Database>

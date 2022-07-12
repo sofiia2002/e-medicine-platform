@@ -1,0 +1,147 @@
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\DoctorsDatabase.Domain.dll
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\DoctorsDatabase.Infrastructure.dll
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.csprojAssemblyReference.cache
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.AssemblyInfoInputs.cache
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.AssemblyInfo.cs
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.RazorAssemblyInfo.cache
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.RazorAssemblyInfo.cs
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\staticwebassets\DoctorsDatabase.Web.StaticWebAssets.Manifest.cache
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\staticwebassets\DoctorsDatabase.Web.StaticWebAssets.xml
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\scopedcss\bundle\DoctorsDatabase.Web.styles.css
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.TagHelpers.input.cache
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.TagHelpers.output.cache
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.RazorCoreGenerate.cache
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.RazorTargetAssemblyInfo.cache
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.RazorTargetAssemblyInfo.cs
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\appsettings.Development.json
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\appsettings.json
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\DoctorsDatabase.Web.exe
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\DoctorsDatabase.Web.deps.json
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\DoctorsDatabase.Web.runtimeconfig.json
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\DoctorsDatabase.Web.runtimeconfig.dev.json
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\DoctorsDatabase.Web.dll
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\ref\DoctorsDatabase.Web.dll
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\DoctorsDatabase.Web.pdb
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\DoctorsDatabase.Web.Views.dll
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\DoctorsDatabase.Web.Views.pdb
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\DoctorsDatabase.Domain.pdb
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\DoctorsDatabase.Infrastructure.pdb
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.csproj.CoreCompileInputs.cache
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.MvcApplicationPartsAssemblyInfo.cs
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.Views.pdb
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.csproj.CopyComplete
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.dll
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\ref\DoctorsDatabase.Web.dll
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.pdb
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.genruntimeconfig.cache
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\DoctorsDatabase.Web.exe
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\DoctorsDatabase.Web.deps.json
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\DoctorsDatabase.Web.runtimeconfig.json
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\DoctorsDatabase.Web.runtimeconfig.dev.json
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\DoctorsDatabase.Web.dll
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\ref\DoctorsDatabase.Web.dll
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\DoctorsDatabase.Web.pdb
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\DoctorsDatabase.Web.Views.dll
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\DoctorsDatabase.Web.Views.pdb
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\DoctorsDatabase.Domain.dll
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\DoctorsDatabase.Infrastructure.dll
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\DoctorsDatabase.Domain.pdb
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\DoctorsDatabase.Infrastructure.pdb
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.csprojAssemblyReference.cache
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.AssemblyInfoInputs.cache
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.AssemblyInfo.cs
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.csproj.CoreCompileInputs.cache
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.RazorAssemblyInfo.cache
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.RazorAssemblyInfo.cs
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\staticwebassets\DoctorsDatabase.Web.StaticWebAssets.Manifest.cache
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\staticwebassets\DoctorsDatabase.Web.StaticWebAssets.xml
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\scopedcss\bundle\DoctorsDatabase.Web.styles.css
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.TagHelpers.input.cache
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.TagHelpers.output.cache
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.RazorCoreGenerate.cache
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.RazorTargetAssemblyInfo.cache
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.RazorTargetAssemblyInfo.cs
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.Views.pdb
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.csproj.CopyComplete
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.dll
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\ref\DoctorsDatabase.Web.dll
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.pdb
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.genruntimeconfig.cache
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\appsettings.Development.json
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\appsettings.json
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\DoctorsDatabase.Web.exe
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\DoctorsDatabase.Web.deps.json
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\DoctorsDatabase.Web.runtimeconfig.json
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\DoctorsDatabase.Web.runtimeconfig.dev.json
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\DoctorsDatabase.Web.dll
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\ref\DoctorsDatabase.Web.dll
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\DoctorsDatabase.Web.pdb
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\DoctorsDatabase.Web.Views.dll
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\DoctorsDatabase.Web.Views.pdb
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\DoctorsDatabase.Domain.dll
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\DoctorsDatabase.Infrastructure.dll
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\DoctorsDatabase.Domain.pdb
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\bin\Debug\net5.0\DoctorsDatabase.Infrastructure.pdb
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.csprojAssemblyReference.cache
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.AssemblyInfoInputs.cache
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.AssemblyInfo.cs
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.csproj.CoreCompileInputs.cache
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.MvcApplicationPartsAssemblyInfo.cs
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.RazorAssemblyInfo.cache
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.RazorAssemblyInfo.cs
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\staticwebassets\DoctorsDatabase.Web.StaticWebAssets.Manifest.cache
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\staticwebassets\DoctorsDatabase.Web.StaticWebAssets.xml
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\scopedcss\bundle\DoctorsDatabase.Web.styles.css
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.TagHelpers.input.cache
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.TagHelpers.output.cache
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.RazorCoreGenerate.cache
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.RazorTargetAssemblyInfo.cache
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.RazorTargetAssemblyInfo.cs
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.Views.pdb
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.csproj.CopyComplete
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.dll
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\ref\DoctorsDatabase.Web.dll
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.pdb
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Web\obj\Debug\net5.0\DoctorsDatabase.Web.genruntimeconfig.cache

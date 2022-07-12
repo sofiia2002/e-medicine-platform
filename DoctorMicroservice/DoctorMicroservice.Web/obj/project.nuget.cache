@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yc+KwBTdKi1NsnlTiavdE201DOKr+4EeLA0GI9pn63r4yrwGdvqNdCxiYDFTtfopRgcueyfnZg90X1JDcBXytA==",
+  "success": true,
+  "projectFilePath": "E:\\LabStudia\\costam testy\\2021l_paim_lab\\Projekt\\DoctorMicroservice\\DoctorMicroservice.Web\\DoctorMicroservice.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miko\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Miko\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512",
+    "C:\\Users\\Miko\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Miko\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.2\\swashbuckle.aspnetcore.swagger.6.1.2.nupkg.sha512",
+    "C:\\Users\\Miko\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.2\\swashbuckle.aspnetcore.swaggergen.6.1.2.nupkg.sha512",
+    "C:\\Users\\Miko\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.2\\swashbuckle.aspnetcore.swaggerui.6.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

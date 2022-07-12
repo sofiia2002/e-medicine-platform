@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>0437f815-53fa-4f69-845a-1753feaf0522</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DoctorsDatabase.Domain\DoctorsDatabase.Domain.csproj" />
+    <ProjectReference Include="..\DoctorsDatabase.Infrastructure\DoctorsDatabase.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Data\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.13" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="6.1.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.1.2" />
+  </ItemGroup>
+
+</Project>

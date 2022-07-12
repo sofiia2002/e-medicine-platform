@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+NglNsxQ5VWQxSJnLi+c3kFC0EWPlOHDPwLOixflbL/7k8qNjErPPDNb4upU8eMIKE03OKD41MabFx+c5SFOrg==",
+  "success": true,
+  "projectFilePath": "E:\\LabStudia\\costam testy\\2021l_paim_lab\\Projekt\\DoctorsDatabase\\DoctorsDatabase.Infrastructure\\DoctorsDatabase.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Miko\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Miko\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.1.2\\swashbuckle.aspnetcore.swagger.6.1.2.nupkg.sha512",
+    "C:\\Users\\Miko\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.1.2\\swashbuckle.aspnetcore.swaggergen.6.1.2.nupkg.sha512",
+    "C:\\Users\\Miko\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.1.2\\swashbuckle.aspnetcore.swaggerui.6.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

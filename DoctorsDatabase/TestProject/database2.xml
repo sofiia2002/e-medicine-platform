@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<db:Database xmlns:db="http://tempuri.org/database.xsd" modified="2021-05-10T22:45:40">
+  <db:Availabilities>
+    <db:Availability id="1" startDate="2021-04-17T09:00:00" endDate="2021-04-17T12:00:00" pwz="1234567" />
+    <db:Availability id="3" startDate="2021-04-19T11:00:00" endDate="2021-04-19T11:00:00" pwz="1234567" />
+    <db:Availability id="4" startDate="2021-04-18T09:00:00" endDate="2021-04-18T10:00:00" pwz="1234578" />
+  </db:Availabilities>
+  <db:Doctors>
+    <db:Doctor firstName="Andrzej" lastName="Grabowski" pwz="1234567">
+      <db:Specializations>
+        <db:Specialization specialization="0" />
+        <db:Specialization specialization="1" />
+        <db:Specialization specialization="2" />
+      </db:Specializations>
+    </db:Doctor>
+    <db:Doctor firstName="Agata" lastName="Serowska" pwz="1234578">
+      <db:Specializations>
+        <db:Specialization specialization="5" />
+        <db:Specialization specialization="3" />
+        <db:Specialization specialization="4" />
+      </db:Specializations>
+    </db:Doctor>
+  </db:Doctors>
+</db:Database>

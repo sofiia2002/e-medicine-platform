@@ -1,0 +1,51 @@
+﻿<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:db="http://tempuri.org/database.xsd" targetNamespace="http://tempuri.org/database.xsd" elementFormDefault="qualified">
+
+	<xsd:element name="Database" type="db:Database" />
+
+	<xsd:complexType name="Database">
+		<xsd:sequence>
+			<xsd:element name="Availabilities" type="db:Availabilities" minOccurs="1" maxOccurs="1" />
+			<xsd:element name="Doctors" type="db:Doctors" minOccurs="1" maxOccurs="1" />
+		</xsd:sequence>
+		<xsd:attribute name="modified" type="xsd:dateTime" use="required" />
+	</xsd:complexType>
+
+	<xsd:complexType name="Availabilities">
+		<xsd:sequence>
+			<xsd:element name="Availability" type="db:Availability" minOccurs="0" maxOccurs="unbounded" />
+		</xsd:sequence>
+	</xsd:complexType>
+
+	<xsd:complexType name="Doctors">
+		<xsd:sequence>
+			<xsd:element name="Doctor" type="db:Doctor" minOccurs="0" maxOccurs="unbounded" />
+		</xsd:sequence>
+	</xsd:complexType>
+
+	<xsd:complexType name="Availability">
+		<xsd:attribute name="id" type="xsd:int" use="required" />
+		<xsd:attribute name="startDate" type="xsd:dateTime" use="required" />
+		<xsd:attribute name="endDate" type="xsd:dateTime" use="required" />
+		<xsd:attribute name="pwz" type="xsd:string" use="required" />
+	</xsd:complexType>
+
+	<xsd:complexType name="Doctor">
+		<xsd:sequence>
+			<xsd:element name="Specializations" type="db:Specializations" minOccurs="1" maxOccurs="1" />
+		</xsd:sequence>
+		<xsd:attribute name="firstName" type="xsd:string" use="required" />
+		<xsd:attribute name="lastName" type="xsd:string" use="required" />
+		<xsd:attribute name="pwz" type="xsd:string" use="required" />
+	</xsd:complexType>
+
+	<xsd:complexType name="Specializations">
+		<xsd:sequence>
+			<xsd:element name="Specialization" type="db:Specialization" minOccurs="0" maxOccurs="unbounded" />
+		</xsd:sequence>
+	</xsd:complexType>
+
+	<xsd:complexType name="Specialization">
+		<xsd:attribute name="specialization" type="xsd:string" use="required" />
+	</xsd:complexType>
+
+</xsd:schema>

@@ -1,0 +1,45 @@
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\bin\Debug\net5.0\DoctorsDatabase.Domain.dll
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\obj\Debug\net5.0\DoctorsDatabase.Infrastructure.csprojAssemblyReference.cache
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\obj\Debug\net5.0\DoctorsDatabase.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\obj\Debug\net5.0\DoctorsDatabase.Infrastructure.AssemblyInfoInputs.cache
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\obj\Debug\net5.0\DoctorsDatabase.Infrastructure.AssemblyInfo.cs
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\bin\Debug\net5.0\DoctorsDatabase.Infrastructure.deps.json
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\bin\Debug\net5.0\DoctorsDatabase.Infrastructure.dll
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\bin\Debug\net5.0\ref\DoctorsDatabase.Infrastructure.dll
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\bin\Debug\net5.0\DoctorsDatabase.Infrastructure.pdb
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\bin\Debug\net5.0\DoctorsDatabase.Domain.pdb
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\obj\Debug\net5.0\DoctorsDatabase.Infrastructure.csproj.CoreCompileInputs.cache
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\obj\Debug\net5.0\DoctorsDatabase.Infrastructure.csproj.CopyComplete
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\obj\Debug\net5.0\DoctorsDatabase.Infrastructure.dll
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\obj\Debug\net5.0\ref\DoctorsDatabase.Infrastructure.dll
+E:\LabStudia\paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\obj\Debug\net5.0\DoctorsDatabase.Infrastructure.pdb
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\bin\Debug\net5.0\DoctorsDatabase.Infrastructure.deps.json
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\bin\Debug\net5.0\DoctorsDatabase.Infrastructure.dll
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\bin\Debug\net5.0\ref\DoctorsDatabase.Infrastructure.dll
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\bin\Debug\net5.0\DoctorsDatabase.Infrastructure.pdb
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\bin\Debug\net5.0\DoctorsDatabase.Domain.dll
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\bin\Debug\net5.0\DoctorsDatabase.Domain.pdb
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\obj\Debug\net5.0\DoctorsDatabase.Infrastructure.csprojAssemblyReference.cache
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\obj\Debug\net5.0\DoctorsDatabase.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\obj\Debug\net5.0\DoctorsDatabase.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\obj\Debug\net5.0\DoctorsDatabase.Infrastructure.AssemblyInfo.cs
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\obj\Debug\net5.0\DoctorsDatabase.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\obj\Debug\net5.0\DoctorsDatabase.Infrastructure.csproj.CopyComplete
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\obj\Debug\net5.0\DoctorsDatabase.Infrastructure.dll
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\obj\Debug\net5.0\ref\DoctorsDatabase.Infrastructure.dll
+C:\Users\makss\Documents\GitHub\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\obj\Debug\net5.0\DoctorsDatabase.Infrastructure.pdb
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\bin\Debug\net5.0\DoctorsDatabase.Infrastructure.deps.json
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\bin\Debug\net5.0\DoctorsDatabase.Infrastructure.dll
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\bin\Debug\net5.0\ref\DoctorsDatabase.Infrastructure.dll
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\bin\Debug\net5.0\DoctorsDatabase.Infrastructure.pdb
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\bin\Debug\net5.0\DoctorsDatabase.Domain.dll
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\bin\Debug\net5.0\DoctorsDatabase.Domain.pdb
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\obj\Debug\net5.0\DoctorsDatabase.Infrastructure.csprojAssemblyReference.cache
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\obj\Debug\net5.0\DoctorsDatabase.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\obj\Debug\net5.0\DoctorsDatabase.Infrastructure.AssemblyInfoInputs.cache
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\obj\Debug\net5.0\DoctorsDatabase.Infrastructure.AssemblyInfo.cs
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\obj\Debug\net5.0\DoctorsDatabase.Infrastructure.csproj.CoreCompileInputs.cache
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\obj\Debug\net5.0\DoctorsDatabase.Infrastructure.csproj.CopyComplete
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\obj\Debug\net5.0\DoctorsDatabase.Infrastructure.dll
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\obj\Debug\net5.0\ref\DoctorsDatabase.Infrastructure.dll
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorsDatabase\DoctorsDatabase.Infrastructure\obj\Debug\net5.0\DoctorsDatabase.Infrastructure.pdb

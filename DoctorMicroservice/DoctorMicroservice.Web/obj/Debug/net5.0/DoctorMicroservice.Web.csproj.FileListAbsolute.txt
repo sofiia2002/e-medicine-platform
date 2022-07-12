@@ -1,0 +1,92 @@
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\bin\Debug\net5.0\appsettings.Development.json
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\bin\Debug\net5.0\appsettings.json
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\bin\Debug\net5.0\DoctorMicroservice.Web.exe
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\bin\Debug\net5.0\DoctorMicroservice.Web.deps.json
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\bin\Debug\net5.0\DoctorMicroservice.Web.runtimeconfig.json
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\bin\Debug\net5.0\DoctorMicroservice.Web.runtimeconfig.dev.json
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\bin\Debug\net5.0\DoctorMicroservice.Web.dll
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\bin\Debug\net5.0\ref\DoctorMicroservice.Web.dll
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\bin\Debug\net5.0\DoctorMicroservice.Web.pdb
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\bin\Debug\net5.0\DoctorMicroservice.Web.Views.dll
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\bin\Debug\net5.0\DoctorMicroservice.Web.Views.pdb
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.csprojAssemblyReference.cache
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.AssemblyInfoInputs.cache
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.AssemblyInfo.cs
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.csproj.CoreCompileInputs.cache
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.MvcApplicationPartsAssemblyInfo.cs
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.RazorAssemblyInfo.cache
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.RazorAssemblyInfo.cs
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\staticwebassets\DoctorMicroservice.Web.StaticWebAssets.Manifest.cache
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\staticwebassets\DoctorMicroservice.Web.StaticWebAssets.xml
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\scopedcss\bundle\DoctorMicroservice.Web.styles.css
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.TagHelpers.input.cache
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.TagHelpers.output.cache
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.RazorCoreGenerate.cache
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.RazorTargetAssemblyInfo.cache
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.RazorTargetAssemblyInfo.cs
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.Views.pdb
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.csproj.CopyComplete
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.dll
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\ref\DoctorMicroservice.Web.dll
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.pdb
+E:\LabStudia\paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.genruntimeconfig.cache
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\bin\Debug\net5.0\appsettings.Development.json
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\bin\Debug\net5.0\appsettings.json
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\bin\Debug\net5.0\DoctorMicroservice.Web.exe
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\bin\Debug\net5.0\DoctorMicroservice.Web.deps.json
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\bin\Debug\net5.0\DoctorMicroservice.Web.runtimeconfig.json
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\bin\Debug\net5.0\DoctorMicroservice.Web.runtimeconfig.dev.json
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\bin\Debug\net5.0\DoctorMicroservice.Web.dll
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\bin\Debug\net5.0\ref\DoctorMicroservice.Web.dll
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\bin\Debug\net5.0\DoctorMicroservice.Web.pdb
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\bin\Debug\net5.0\DoctorMicroservice.Web.Views.dll
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\bin\Debug\net5.0\DoctorMicroservice.Web.Views.pdb
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.csprojAssemblyReference.cache
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.AssemblyInfoInputs.cache
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.AssemblyInfo.cs
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.csproj.CoreCompileInputs.cache
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.MvcApplicationPartsAssemblyInfo.cs
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.RazorAssemblyInfo.cache
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.RazorAssemblyInfo.cs
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\staticwebassets\DoctorMicroservice.Web.StaticWebAssets.Manifest.cache
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\staticwebassets\DoctorMicroservice.Web.StaticWebAssets.xml
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\scopedcss\bundle\DoctorMicroservice.Web.styles.css
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.TagHelpers.input.cache
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.TagHelpers.output.cache
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.RazorCoreGenerate.cache
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.RazorTargetAssemblyInfo.cache
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.RazorTargetAssemblyInfo.cs
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.Views.pdb
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.csproj.CopyComplete
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.dll
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\ref\DoctorMicroservice.Web.dll
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.pdb
+E:\LabStudia\costam testy\2021l_paim_lab\Projekt\DoctorMicroservice\DoctorMicroservice.Web\obj\Debug\net5.0\DoctorMicroservice.Web.genruntimeconfig.cache
